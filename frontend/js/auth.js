@@ -2,7 +2,7 @@
 // API URL
 // =====================================
 
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = "https://task-6-database-authentication.onrender.com/api/auth";
 
 // =====================================
 // Get Elements

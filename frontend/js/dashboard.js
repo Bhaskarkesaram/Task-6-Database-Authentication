@@ -3,7 +3,7 @@
 // =================================
 
 const API_URL =
-"http://localhost:5000/api/data/dashboard";
+"https://task-6-database-authentication.onrender.com/api/data/dashboard";
 
 
 
